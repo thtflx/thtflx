@@ -1,8 +1,8 @@
 # Aziz Sattorov
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Front-end cat🐈‍⬛</h3>
 
 
-- 🌱 I’m learning(currently):  **HTML, CSS, JavaScript, Sass**
+- 👀 I’m learning(currently):  **HTML, CSS, JavaScript, Sass**
 
 - 📫 G-mail:  **azizsattorovthtflx@gmail.com**
 
