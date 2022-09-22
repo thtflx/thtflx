@@ -2,9 +2,9 @@
 <h3 align="center">Frontend developer</h3>
 
 
-- 🌱 I’m learning(currently): **HTML, CSS, JavaScript, Sass**
+- 🌱 I’m learning(currently):  **HTML, CSS, JavaScript, Sass**
 
-- 📫 G-mail: **azizsattorovthtflx@gmail.com**
+- 📫 G-mail:  **azizsattorovthtflx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
