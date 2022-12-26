@@ -1,6 +1,6 @@
 [Telegram](https://t.me/thtflx)
 
-[Portfolio](https://tht-portfoliosite.netlify.app/)  
+[Discord](sattorov#1061)  
 
 [G-mail](mailto:azizsattorovthtflx@gmail.com)
 
