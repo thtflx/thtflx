@@ -1,9 +1,8 @@
 ## socials:
-[Telegram](https://t.me/thtflx)/
-[G-mail](mailto:azizsattorovthtflx@gmail.com)/
-[twitter](https://twitter.com/thtflx)/
-[Discord](https://discord.com/app/invite-with-guild-onboarding/paradeevich1003697356962803772)/
-[Discord](https://discord.com/app/invite-with-guild-onboarding/thtflx1003697356962803772)/
-[Discord for cats](https://discord.gg/ZmTcZW6y)
+[telegram](https://t.me/thtflx) /
+[g-mail](mailto:azizsattorovthtflx@gmail.com) /
+[twitter](https://twitter.com/thtflx) /
+[discord](https://discord.com/app/invite-with-guild-onboarding/thtflx1003697356962803772) /
+[cats from bunker](https://discord.gg/ZmTcZW6y)
 
 
