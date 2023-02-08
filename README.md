@@ -13,5 +13,5 @@
 # personal dimensions:
 with head to work.
 
-20/80 rule. 
+<!-- 20/80 rule.  -->
 
