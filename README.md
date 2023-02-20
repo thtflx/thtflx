@@ -1,5 +1,5 @@
 # socials:
-[telegram](https://t.me/thtflx) /
+[telegram](https://t.me/thtflx_home) /
 [g-mail](mailto:azizsattorovthtflx@gmail.com) /
 [twitter](https://twitter.com/thtflx) /
 [discord](https://discord.com/app/invite-with-guild-onboarding/thtflx1003697356962803772) /
