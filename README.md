@@ -1,5 +1,5 @@
 # socials:
-[telegram](https://t.me/thtflx_home) /
+[telegram](https://t.me/thtflx) /
 [g-mail](mailto:azizsattorovthtflx@gmail.com) /
 [twitter](https://twitter.com/thtflx) /
 [discord](https://discord.com/app/invite-with-guild-onboarding/thtflx1003697356962803772) /
@@ -7,7 +7,7 @@
 
 
 # portfolioBook:
-<a href="https://thtflx.github.io/s2trv-pg/">link me with mind</a>
+<a href="https://s2trv-pg.netlify.app/">link me with mind</a>
 <!-- in developing🔧. -->
 
 # personal dimensions:
