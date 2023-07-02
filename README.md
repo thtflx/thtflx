@@ -7,7 +7,7 @@
 
 
 # portfolioBook:
-<a href="https://s2trv-pg.netlify.app/">link me with mind</a>
+<a href="https://twopapers.vercel.app/">link me with mind</a>
 <!-- in developing🔧. -->
 
 # personal dimensions:
